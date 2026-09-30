@@ -324,7 +324,14 @@ gitGraph TB:
    merge evidence
    commit id: "2026-08 结构估计 = 方法族 18"
    commit id: "2026-08 NSW 基准从引用变推导"
+   commit id: "2026-09 数据 → Word 全稿路线"
    commit id: "2026-09 de-AIGC 去水印层"
+   commit id: "2026-09 分层检索 + 路由评测"
+   commit id: "2026-09 StatsPAI 置顶"
+   branch phacking
+   commit id: "2026-09 p-hacking 体检室（合集 73）"
+   checkout main
+   merge phacking
 ```
 
 <div align="center">
